@@ -1,5 +1,4 @@
 # Create a powerful API on Node.js, GraphQL, MongoDB, Hapi and Swagger
--
 
 ### Demo
 
