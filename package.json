@@ -1,0 +1,23 @@
+{
+  "name": "api-nodejs-project",
+  "version": "1.0.0",
+  "description": "Create a powerful API on Node.js, GraphQL, MongoDB, Hapi and Swagger",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Fyunka",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-hapi": "1.3.6",
+    "graphql": "0.13.2",
+    "hapi": "17.4.0",
+    "hapi-swagger": "9.1.1",
+    "inert": "^5.1.3",
+    "mogoose": "^0.0.1-security",
+    "mongodb": "^3.5.2",
+    "mongoose": "^5.8.11",
+    "nodemon": "^2.0.2",
+    "vision": "^5.4.4"
+  }
+}
